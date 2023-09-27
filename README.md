@@ -8,8 +8,6 @@ I am a senior full-stack AI engineer and data scientist, highly skilled in moder
 
 ### Founder, CTO @ [OkGPT](https://t.me/ok_gpt_bot) <img src="https://raw.githubusercontent.com/abrahamcalf/programming-languages-logos/master/src/python/python.svg" height="16" class="image is-16x16 is-inline-block" /> <img src="https://github.com/dsvolk/dsvolk/assets/3715652/f9982f62-addc-4de4-8953-167a853c92c3" height="16" class="image is-16x16 is-inline-block" /> <img src="https://github.com/dsvolk/dsvolk/assets/3715652/8bb13198-81d1-4379-86d8-fc8219e14a00" height="16" class="image is-16x16 is-inline-block" /> <img src="https://github.com/dsvolk/dsvolk/assets/3715652/263f9e19-8f1c-42d9-8c31-446a52a8b122" height="16" class="image is-16x16 is-inline-block" />
 
-
-
 *2023 - PRESENT*
 - Created [OkGPT](https://t.me/ok_gpt_bot), an AI personal assistant messenger bot. It allows users to interact with the most advanced AI through voice and text while offering additional productivity features and integrations.
 - Optimized the code to parallelize user queries' processing to increase the bot performance by magnitude.
@@ -28,7 +26,9 @@ I am a senior full-stack AI engineer and data scientist, highly skilled in moder
 - Built a visualization tool for model output to audit its decisions.
 - Set up automatic model deployment to AWS cloud platform as a Lambda serverless function.
 
-### Senior Data Scientist and Data Engineer @ Israel-based HR Tech Startup
+### Senior Data Scientist and Data Engineer @ Israel-based HR Tech Startup <img src="[https://raw.githubusercontent.com/abrahamcalf/programming-languages-logos/master/src/python/python.svg](https://github.com/dsvolk/dsvolk/assets/3715652/70fbeb51-65e6-40d0-8b76-bc49328e4210)" height="16" class="image is-16x16 is-inline-block" />
+
+
 *2021 - 2022*
 - Architected and directed the creation of a core Similarity engine to score candidates.
 - Used pre-trained NLP deep neural networks to create semantic text embeddings, which significantly increased the Similarity engine output results.
