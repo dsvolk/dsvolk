@@ -110,7 +110,7 @@ I got my a Ph.D. in mathematics, and [did research in Math, Physics, Neuroscienc
 - Thin attractors *(with V. Kleptsyn)* // Topology, Geometry and Dynamics: Rokhlin Memorial, 2010, pp. 70–72
 - The density of separatrix connections in $`\mathbb{C}^2`$ // International conference “Differential equations and related topics” dedicated to I. G. Petrovskii, 2004. Book of Abstracts, p. 241 (Russian).
 
-## 💰 My past grants
+## 💰 My grants
 - ERC Advanced Investigator Grant MALADY 246953 [European Union]
 - “Young SISSA Scientists” **(Principal Investigator)** [Italy]
 - CNRS 10-01-93115 [France]
