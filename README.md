@@ -29,6 +29,33 @@ I am a senior full-stack AI engineer and data scientist, highly skilled in moder
 
 - Mapping placental topology from 3D scans, the graphic display of variation in arborisation across gestation *(with C. Salafia, M. Yampolsky, C. Stodgell, P. Katzman, J. Culhane, P. Landrigan, S. Szabo, N. Thieux, J. Swanson, N. Dole, M. Varner, J. Moye, R. Miller)* // [Placenta, 34(9):A73--A74, 2013](https://www.sciencedirect.com/science/article/abs/pii/S0143400413004931) (see also [Erratum](https://linkinghub.elsevier.com/retrieve/pii/S0143400413007972))
 
+#### Conference publications
+- Fast-slow partially hyperbolic systems and pathological foliations *(with De Simoi, C. Liverani, C. Poquet)* // International Conference "Anosov systems and modern dynamics", 2016, pp. 25–27, ISBN 978-5-98419-073-2
+- Dynamics of Piecewise Translations // Proceedings of International Conference "Dynamics, Bifurcations and Strange Attractors", 2013, pp. 112–113
+- Interval Translation Maps of Three Intervals // Proceedings of International Conference on Differential Equations and Dynamical Systems, 2012, ISBN 978-5-98419-046-6
+- Persistent massive attractors of smooth maps // Proceedings of International Mathematical Conference “50 Years of IITP”, 2011, ISBN 978-5-901158-15-9
+- Skew products with interval fiber // Conference on Geometry and Topology of Foliations, 2010, p. 23
+- Thin attractors *(with V. Kleptsyn)* // Topology, Geometry and Dynamics: Rokhlin Memorial, 2010, pp. 70–72
+- The density of separatrix connections in $`\mathbb{C}^2`$ // International conference “Differential equations and related topics” dedicated to I. G. Petrovskii, 2004. Book of Abstracts, p. 241 (Russian).
+
+#### My past grants
+- RSCF 17-11-01273 grant "Изучение роли нейрональных осцилляций в реализации функций рабочей памяти с применением математического моделирования и неинвазивной стимуляции переменным током"
+- Young Russian Mathematics award
+- Russian Ministry of Education (Contract no. 14.6008.21.0001, unique ID project RFMEFI60815X0001)
+- RFBR 13-01-00969-a [Russia]
+- ERC Advanced Investigator Grant MALADY 246953 [European Union]
+- President's of Russia MK-7567.2013.1 **(Co-PI with I. Schurov)** [Russia]
+- RFBR 12-01-31241-mol_a **(Co-PI with I. Schurov)** [Russia]
+- President's of Russia MK-2790.2011.1 **(Co-PI with V. Timorin and I. Schurov)** [Russia]
+- “Young SISSA Scientists” **(Principal Investigator)** [Italy]
+- RFBR 10-01-00739-a [Russia]
+- RFBR/CNRS 10-01-93115 [Russia-France]
+- PRIN [Italy]
+- RFBR 07-01-00017-a [Russia]
+- RFBR/CNRS 05-01-02801-CNRS_a [Russia-France]
+- CRDF RM1-2358 [USA]
+- RFBR 02-01-22002 [Russia]
+
 <!--
 **dsvolk/dsvolk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
