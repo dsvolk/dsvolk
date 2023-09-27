@@ -4,6 +4,17 @@
 
 I am a senior full-stack AI engineer and data scientist, highly skilled in modern generative tech (GPT-4, Midjourney, etc.), machine learning, ETL pipelines, data analysis, mathematical modeling, big data, and MLOps. I got my a Ph.D. in mathematics, and my data science expertise includes probabilistic risk modeling, revenue forecasting, geospatial data analysis, handwriting recognition, anomaly detection in time series, data engineering, and team leading.
 
+### Work experience
+
+#### Founder, CTO @ OkGPT
+*2023 - PRESENT*
+- Created OkGPT, an AI personal assistant messenger bot. It allows users to interact with the most advanced AI through voice and text while offering additional productivity features and integrations.
+- Optimized the code to parallelize user queries' processing to increase the bot performance by magnitude.
+- Integrated multiple APIs, including Telegram, OpenAI, Google, Redis, Amplitude, Datadog, and more.
+- Supervised three team members and a few external collaborators.
+
+### Academic experience
+
 ### My papers
 
 #### Neuroscience
