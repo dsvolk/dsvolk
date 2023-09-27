@@ -2,6 +2,8 @@
 - [Full-stack AI engineer and data scientist](https://www.toptal.com/resume/denis-volk/BDnARp/worlds-top-talent) @ [Toptal](https://www.toptal.com/)
 - Associate Professor in Mathematics @ Interdisciplinary Scientific Center J.-V. Poncelet ([CNRS UMI 2615](https://www.i2m.univ-amu.fr/la-recherche/projets/unites-mixtes-internationales-umi/))
 
+---
+
 I am a senior full-stack AI engineer and data scientist, highly skilled in modern generative tech (GPT-4, Midjourney, etc.), machine learning, ETL pipelines, data analysis, mathematical modeling, big data, and MLOps. 
 
 I got my a Ph.D. in mathematics, and my data science expertise includes probabilistic risk modeling, revenue forecasting, geospatial data analysis, handwriting recognition, anomaly detection in time series, data engineering, and team leading.
