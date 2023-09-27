@@ -18,8 +18,8 @@ I am a senior full-stack AI engineer and data scientist, highly skilled in moder
 - Almost every Interval Translation Map of three intervals is finite type // [Discrete and Continuous Dynamical Systems - Series A, 34(5):2307--2314, 2014](https://www.aimsciences.org/article/doi/10.3934/dcds.2014.34.2307) [see also [arXiv:1203.3405](https://arxiv.org/abs/1203.3405)]
 - Persistent massive attractors of smooth maps // [Ergodic Theory and Dynamical Systems, 34(2):693--704, 2014](https://www.cambridge.org/core/journals/ergodic-theory-and-dynamical-systems/article/abs/persistent-massive-attractors-of-smooth-maps/B6709BF389866FB8D50E2BF63C1D472A) [see also [arXiv:1108.5330](https://arxiv.org/abs/1108.5330)]
 - Cascades of $`\varepsilon`$-invisibility (with Yu. Ilyashenko) // [Journal of Fixed Point Theory and Applications, 7(1):161--188, 2010](https://www.springer.com/journal/11784)    [see also [arXiv:0906.3567](https://arxiv.org/abs/0906.3567)]
-- Theorem on the density of separatrix connections for polynomial foliations in CP2 // [Journal of Mathematical Sciences, 150(5):2326--2334, 2008](https://link.springer.com/journal/10958/volumes-and-issues/150-5)  [Translated from Fundamentalnaya i Prikladnaya Matematika, 12(4):53--64, 2006 (Russian)]
-- The density of separatrix connections in the space of polynomial foliations in CP2 // [Proceedings of the Steklov Institute of Mathematics, 254(1):169--179, 2006](https://link.springer.com/journal/11501/volumes-and-issues/254-1)  [Translated from Trudy Matematicheskogo Instituta imeni V. A. Steklova, 254:181--191, 2006 (Russian)]
+- Theorem on the density of separatrix connections for polynomial foliations in $`\mathbb{C}P^2`$ // [Journal of Mathematical Sciences, 150(5):2326--2334, 2008](https://link.springer.com/journal/10958/volumes-and-issues/150-5)
+- The density of separatrix connections in the space of polynomial foliations in $`\mathbb{C}P^2`$ // [Proceedings of the Steklov Institute of Mathematics, 254(1):169--179, 2006](https://link.springer.com/journal/11501/volumes-and-issues/254-1)
 
 ##### Preprints
 
