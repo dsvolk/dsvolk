@@ -1,6 +1,13 @@
 ### Denis Volk, PhD
+- Full-stack AI engineer and data scientist @ Toptal
+- Associate Professor @ Interdisciplinary Scientific Center J.-V. Poncelet (CNRS UMI 2615)
 
 I am a senior full-stack AI engineer and data scientist, highly skilled in modern generative tech (GPT-4, Midjourney, etc.), machine learning, ETL pipelines, data analysis, mathematical modeling, big data, and MLOps. I got my a Ph.D. in mathematics, and his data science expertise includes probabilistic risk modeling, revenue forecasting, geospatial data analysis, handwriting recognition, anomaly detection in time series, data engineering, and team leading.
+
+### My papers
+
+#### Neuroscience
+- Generalized Cross-Frequency Decomposition: A Method for the Extraction of Neuronal Components Coupled at Different Frequencies (with I. Dubinin, A. Myasnikova, B. Gutkin, V. Nikulin)     [Frontiers in Neuroinformatics, 18 October 2018 | https://doi.org/10.3389/fninf.2018.00072](https://www.frontiersin.org/articles/10.3389/fninf.2018.00072/full)
 
 <!--
 **dsvolk/dsvolk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
