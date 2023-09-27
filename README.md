@@ -39,22 +39,12 @@ I am a senior full-stack AI engineer and data scientist, highly skilled in moder
 - The density of separatrix connections in $`\mathbb{C}^2`$ // International conference “Differential equations and related topics” dedicated to I. G. Petrovskii, 2004. Book of Abstracts, p. 241 (Russian).
 
 #### My past grants
-- RSCF 17-11-01273 grant
-- Young Russian Mathematics award
-- Russian Ministry of Education (Contract no. 14.6008.21.0001, unique ID project RFMEFI60815X0001)
-- RFBR 13-01-00969-a
 - ERC Advanced Investigator Grant MALADY 246953 [European Union]
-- President's of Russia MK-7567.2013.1 **(Co-PI with I. Schurov)**
-- RFBR 12-01-31241-mol_a **(Co-PI with I. Schurov)**
-- President's of Russia MK-2790.2011.1 **(Co-PI with V. Timorin and I. Schurov)**
 - “Young SISSA Scientists” **(Principal Investigator)** [Italy]
-- RFBR 10-01-00739-a
 - RFBR/CNRS 10-01-93115 [France]
 - PRIN [Italy]
-- RFBR 07-01-00017-a
 - RFBR/CNRS 05-01-02801-CNRS_a [France]
 - CRDF RM1-2358 [USA]
-- RFBR 02-01-22002
 
 <!--
 **dsvolk/dsvolk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
