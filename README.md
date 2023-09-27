@@ -4,7 +4,7 @@
 
 ---
 
-I am a senior full-stack AI engineer and data scientist, highly skilled in modern generative tech (GPT-4, Midjourney, etc.), machine learning, ETL pipelines, data analysis, mathematical modeling, big data, and MLOps. My data science expertise includes probabilistic risk modeling, revenue forecasting, geospatial data analysis, handwriting recognition, anomaly detection in time series, data engineering, and team leading.
+I am a top-notch full-stack AI engineer and data scientist, highly skilled in modern generative tech (GPT-4, Midjourney, etc.), machine learning, ETL pipelines, data analysis, mathematical modeling, big data, and MLOps. My data science expertise includes probabilistic risk modeling, revenue forecasting, geospatial data analysis, handwriting recognition, anomaly detection in time series, data engineering, and team leading.
 
 I got my a Ph.D. in mathematics, and [did research in Math, Physics, Neuroscience, and Medicine](#my-papers). 
 
