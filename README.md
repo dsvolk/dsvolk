@@ -6,13 +6,11 @@ I am a senior full-stack AI engineer and data scientist, highly skilled in moder
 
 ## Industry experience
 
-<details>
-<summary>### Founder, CTO @ [OkGPT](https://t.me/ok_gpt_bot) <img src="https://raw.githubusercontent.com/abrahamcalf/programming-languages-logos/master/src/python/python.svg" height="16" class="image is-16x16 is-inline-block" /> <img src="https://github.com/dsvolk/dsvolk/assets/3715652/f9982f62-addc-4de4-8953-167a853c92c3" height="16" class="image is-16x16 is-inline-block" /> <img src="https://github.com/dsvolk/dsvolk/assets/3715652/8bb13198-81d1-4379-86d8-fc8219e14a00" height="16" class="image is-16x16 is-inline-block" /> <img src="https://github.com/dsvolk/dsvolk/assets/3715652/263f9e19-8f1c-42d9-8c31-446a52a8b122" height="16" class="image is-16x16 is-inline-block" /> *2023 - PRESENT*</summary>
+### Founder, CTO @ [OkGPT](https://t.me/ok_gpt_bot) <img src="https://raw.githubusercontent.com/abrahamcalf/programming-languages-logos/master/src/python/python.svg" height="16" class="image is-16x16 is-inline-block" /> <img src="https://github.com/dsvolk/dsvolk/assets/3715652/f9982f62-addc-4de4-8953-167a853c92c3" height="16" class="image is-16x16 is-inline-block" /> <img src="https://github.com/dsvolk/dsvolk/assets/3715652/8bb13198-81d1-4379-86d8-fc8219e14a00" height="16" class="image is-16x16 is-inline-block" /> <img src="https://github.com/dsvolk/dsvolk/assets/3715652/263f9e19-8f1c-42d9-8c31-446a52a8b122" height="16" class="image is-16x16 is-inline-block" /> *2023 - PRESENT*
 - Created [OkGPT](https://t.me/ok_gpt_bot), an AI personal assistant messenger bot. It allows users to interact with the most advanced AI through voice and text while offering additional productivity features and integrations.
 - Optimized the code to parallelize user queries' processing to increase the bot performance by magnitude.
 - Integrated multiple APIs, including Telegram, OpenAI, Google, Redis, Amplitude, Datadog, and more.
 - Supervised three team members and a few external collaborators.
-</details>
 
 ### AI Engineer @ Generative Tech Startup <img src="https://raw.githubusercontent.com/abrahamcalf/programming-languages-logos/master/src/python/python.svg" height="16" class="image is-16x16 is-inline-block" />
 *2023*
