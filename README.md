@@ -20,8 +20,7 @@ I am a senior full-stack AI engineer and data scientist, highly skilled in moder
 - Engineered and fine-tuned the prompts to improve the quality and correctness of SQL code generation.
 - Created an automatic annotator for the database columns and the final table.
 
-### Senior Machine Learning Engineer @ Blockchain Security Company <img src="https://raw.githubusercontent.com/abrahamcalf/programming-languages-logos/master/src/python/python.svg" height="16" class="image is-16x16 is-inline-block" /> <img src="https://github.com/dsvolk/dsvolk/assets/3715652/aa134614-9ad9-440b-94db-166acab75b68" height="16" class="image is-16x16 is-inline-block" />
-
+### Senior Machine Learning Engineer @ Blockchain Security Company <img src="https://raw.githubusercontent.com/abrahamcalf/programming-languages-logos/master/src/python/python.svg" height="16" class="image is-16x16 is-inline-block" /> <img src="https://github.com/dsvolk/dsvolk/assets/3715652/ea7077b4-68c6-4810-a5a9-208b1c7b94ab" height="16" class="image is-16x16 is-inline-block" />
 *2023*
 - Created a machine learning model to automatically detect malicious smart contracts before they can cause harm.
 - Built a visualization tool for model output to audit its decisions.
