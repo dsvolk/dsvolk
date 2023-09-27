@@ -6,7 +6,7 @@ I am a senior full-stack AI engineer and data scientist, highly skilled in moder
 
 ### Industry experience
 
-##### Founder, CTO @ [OkGPT](https://t.me/ok_gpt_bot) ![](https://raw.githubusercontent.com/abrahamcalf/programming-languages-logos/master/src/python/python.svg)
+##### Founder, CTO @ [OkGPT](https://t.me/ok_gpt_bot) <img src="https://raw.githubusercontent.com/abrahamcalf/programming-languages-logos/master/src/python/python.svg" height="16" class="image is-16x16 is-inline-block" />
 *2023 - PRESENT*
 - Created [OkGPT](https://t.me/ok_gpt_bot), an AI personal assistant messenger bot. It allows users to interact with the most advanced AI through voice and text while offering additional productivity features and integrations.
 - Optimized the code to parallelize user queries' processing to increase the bot performance by magnitude.
