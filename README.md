@@ -7,7 +7,8 @@ I am a senior full-stack AI engineer and data scientist, highly skilled in moder
 ### My papers
 
 #### Neuroscience
-- Generalized Cross-Frequency Decomposition: A Method for the Extraction of Neuronal Components Coupled at Different Frequencies (with I. Dubinin, A. Myasnikova, B. Gutkin, V. Nikulin)     [Frontiers in Neuroinformatics, 18 October 2018 | https://doi.org/10.3389/fninf.2018.00072](https://www.frontiersin.org/articles/10.3389/fninf.2018.00072/full)
+- Generalized Cross-Frequency Decomposition: A Method for the Extraction of Neuronal Components Coupled at Different Frequencies (with I. Dubinin, A. Myasnikova, B. Gutkin, V. Nikulin) //  [Frontiers in Neuroinformatics, 2018](https://www.frontiersin.org/articles/10.3389/fninf.2018.00072/full)
+- [Fast-slow partially hyperbolic systems versus Freidlin-Wentzell random systems (with J. De Simoi, C. Liverani, C. Poquet) // Journal of Statistical Physics, 166:650--679, 2017](https://www.readcube.com/articles/10.1007%2Fs10955-016-1628-3?author_access_token=noqa8virte4ISLZPHSFNd_e4RwlQNchNByi7wbcMAY5XoNtZKrv7P4B5b0BfI43N768-H9_iAXJAWXUnQPVAXTDsqrFZ0jfONIxBzjy2ZKDrudRVLdLBjTttBVjjqFDVGvElHIcAT4IN9OVMG7c1EQ==) [see also [arXiv:1607.04319](https://arxiv.org/abs/1607.04319)]
 
 <!--
 **dsvolk/dsvolk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
