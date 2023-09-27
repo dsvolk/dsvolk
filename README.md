@@ -39,7 +39,7 @@ I am a senior full-stack AI engineer and data scientist, highly skilled in moder
 - Developed an interpretable machine learning model with Scikit-learn, CatBoost, Lifelines, FBProphet, FAISS, and SHAP that consists of several submodels and satisfies business monotonicity constraints.
 - Supervised other data science team members and coordinated with the engineering team.
 
-##### Researcher and Software Engineer @ Artec Group ![](https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png)
+##### Researcher and Software Engineer @ Artec Group ![badge](https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png)
 *2004 - 2007*
 - Designed and implemented biometric machine learning face recognition algorithms.
 - Created and implemented statistical test procedures for new recognition algorithms.
