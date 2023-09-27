@@ -26,7 +26,7 @@ I am a senior full-stack AI engineer and data scientist, highly skilled in moder
 - Built a visualization tool for model output to audit its decisions.
 - Set up automatic model deployment to AWS cloud platform as a Lambda serverless function.
 
-### Senior Data Scientist and Data Engineer @ Israel-based HR Tech Startup <img src="[https://raw.githubusercontent.com/abrahamcalf/programming-languages-logos/master/src/python/python.svg](https://github.com/dsvolk/dsvolk/assets/3715652/70fbeb51-65e6-40d0-8b76-bc49328e4210)" height="16" class="image is-16x16 is-inline-block" />
+### Senior Data Scientist and Data Engineer @ Israel-based HR Tech Startup <img src="https://github.com/dsvolk/dsvolk/assets/3715652/70fbeb51-65e6-40d0-8b76-bc49328e4210" height="16" class="image is-16x16 is-inline-block" />
 
 
 *2021 - 2022*
