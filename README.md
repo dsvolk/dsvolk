@@ -41,9 +41,9 @@ I am a senior full-stack AI engineer and data scientist, highly skilled in moder
 #### My past grants
 - ERC Advanced Investigator Grant MALADY 246953 [European Union]
 - “Young SISSA Scientists” **(Principal Investigator)** [Italy]
-- RFBR/CNRS 10-01-93115 [France]
+- CNRS 10-01-93115 [France]
 - PRIN [Italy]
-- RFBR/CNRS 05-01-02801-CNRS_a [France]
+- CNRS 05-01-02801-CNRS_a [France]
 - CRDF RM1-2358 [USA]
 
 <!--
