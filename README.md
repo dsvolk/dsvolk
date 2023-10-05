@@ -6,7 +6,7 @@
 
 I am a top-notch full-stack AI engineer and data scientist, highly skilled in modern generative tech (GPT-4, Midjourney, etc.), machine learning, ETL pipelines, data analysis, mathematical modeling, big data, and MLOps. My data science and machine learning expertise includes forecasting, geospatial data analysis, probabilistic modeling, image recognition, time series analysis, data engineering, and team leading.
 
-I got my a Ph.D. in mathematics, and [did research in Math, Physics, Neuroscience, and Medicine](#-my-papers). 
+I got Ph.D. in mathematics, and [did research in Math, Physics, Neuroscience, and Medicine](#-my-papers). 
 
 ## 👨‍💻 Industry experience (selected)
 
