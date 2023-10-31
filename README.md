@@ -45,7 +45,7 @@ I am Ph.D. in mathematics, and [did research in Math, Physics, Neuroscience, and
 - Developed an interpretable machine learning model with Scikit-learn, CatBoost, Lifelines, FBProphet, FAISS, and SHAP that consists of several submodels and satisfies business monotonicity constraints.
 - Supervised other data science team members and coordinated with the engineering team.
 
-### 🚀 Senior Data Scientist @ KPMG <img src="https://raw.githubusercontent.com/abrahamcalf/programming-languages-logos/master/src/python/python.svg" height="16" class="image is-16x16 is-inline-block" /> <img src="https://github.com/dsvolk/dsvolk/assets/3715652/2b153094-9ec3-424c-aaf4-70dabaf6a313" height="16" class="image is-16x16 is-inline-block" />
+### 🚀 Senior Data Scientist @ KPMG <img src="https://raw.githubusercontent.com/abrahamcalf/programming-languages-logos/master/src/python/python.svg" height="16" class="image is-16x16 is-inline-block" /> <img src="https://github.com/dsvolk/dsvolk/assets/3715652/aaeef33e-559f-4024-8920-46954c8ec927" height="16" class="image is-16x16 is-inline-block" />
 *2017 - 2019*
 - Created a machine learning model that predicted revenues for a retail store chain based on store location, local demographic data, GIS features, seasonality, and other factors.
 - Developed and deployed an interpretable machine learning model that scored B2B customers for payment default risks and provided explanations for the scores. The model massively reduced workload for weekly risks assessment.
