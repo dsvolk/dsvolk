@@ -7,6 +7,8 @@ I am a top-notch full-stack AI engineer and data scientist, highly skilled in mo
 
 I am Ph.D. in mathematics, and [I did research in Math, Physics, Neuroscience, and Medicine](#-my-papers). 
 
+---
+
 ## 👨‍💻 Industry experience (selected)
 
 ### 🚀 Founder, CTO @ [OkGPT](https://t.me/ok_gpt_bot) <img src="https://raw.githubusercontent.com/abrahamcalf/programming-languages-logos/master/src/python/python.svg" height="16" class="image is-16x16 is-inline-block" /> <img src="https://github.com/dsvolk/dsvolk/assets/3715652/f9982f62-addc-4de4-8953-167a853c92c3" height="16" class="image is-16x16 is-inline-block" /> <img src="https://github.com/dsvolk/dsvolk/assets/3715652/8bb13198-81d1-4379-86d8-fc8219e14a00" height="16" class="image is-16x16 is-inline-block" /> <img src="https://github.com/dsvolk/dsvolk/assets/3715652/263f9e19-8f1c-42d9-8c31-446a52a8b122" height="16" class="image is-16x16 is-inline-block" /> 
