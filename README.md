@@ -18,7 +18,7 @@ I am Ph.D. in mathematics, and [I did research in Math, Physics, Neuroscience, a
 - Integrated multiple APIs, including Telegram, OpenAI, Google, Redis, Amplitude, Datadog, and more.
 - Supervised three team members and a few external collaborators.
 
-### 🚀 Senior AI Engineer @ Software Company (via [Toptal](https://www.toptal.com/resume/denis-volk/BDnARp/worlds-top-talent)) <img src="https://raw.githubusercontent.com/abrahamcalf/programming-languages-logos/master/src/python/python.svg" height="16" class="image is-16x16 is-inline-block" />
+### 🚀 Senior AI Engineer @ Software Company (via [Toptal](https://www.toptal.com/resume/denis-volk/BDnARp/worlds-top-talent)) <img src="https://raw.githubusercontent.com/abrahamcalf/programming-languages-logos/master/src/python/python.svg" height="16" class="image is-16x16 is-inline-block" /> <img src="https://github.com/dsvolk/dsvolk/assets/3715652/8bb13198-81d1-4379-86d8-fc8219e14a00" height="16" class="image is-16x16 is-inline-block" /> <img src="https://github.com/dsvolk/dsvolk/assets/3715652/2b153094-9ec3-424c-aaf4-70dabaf6a313" height="16" class="image is-16x16 is-inline-block" />
 
 *2024*
 - Trained a custom BERT deep neural network to identify AI-generated software code.
