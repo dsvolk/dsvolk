@@ -18,6 +18,14 @@ I am Ph.D. in mathematics, and [I did research in Math, Physics, Neuroscience, a
 - Integrated multiple APIs, including Telegram, OpenAI, Google, Redis, Amplitude, Datadog, and more.
 - Supervised three team members and a few external collaborators.
 
+### 🚀 Senior AI Engineer @ Software Company (via [Toptal](https://www.toptal.com/resume/denis-volk/BDnARp/worlds-top-talent)) <img src="https://raw.githubusercontent.com/abrahamcalf/programming-languages-logos/master/src/python/python.svg" height="16" class="image is-16x16 is-inline-block" />
+
+*2024*
+- Trained a custom BERT deep neural network to identify AI-generated software code.
+- Created a data pipeline to prepare model training data from open source code repositories on GitHub.
+- Architected a test suite for classification models, including validation datasets and testing procedures.
+- Deployed the classification models to production and containerized microservices in AWS cloud.
+
 ### 🚀 AI Engineer @ Generative Tech Startup <img src="https://raw.githubusercontent.com/abrahamcalf/programming-languages-logos/master/src/python/python.svg" height="16" class="image is-16x16 is-inline-block" />
 
 *2023*
@@ -31,14 +39,14 @@ I am Ph.D. in mathematics, and [I did research in Math, Physics, Neuroscience, a
 - Built a visualization tool for model output to audit its decisions.
 - Set up automatic model deployment to AWS cloud platform as a Lambda serverless function.
 
-### 🚀 Senior Data Scientist and Data Engineer @ Israel-based HR Tech Startup (via [Toptal](https://www.toptal.com/resume/denis-volk/BDnARp/worlds-top-talent) <img src="https://raw.githubusercontent.com/abrahamcalf/programming-languages-logos/master/src/python/python.svg" height="16" class="image is-16x16 is-inline-block" /> <img src="https://github.com/dsvolk/dsvolk/assets/3715652/2b153094-9ec3-424c-aaf4-70dabaf6a313" height="16" class="image is-16x16 is-inline-block" /> <img src="https://github.com/dsvolk/dsvolk/assets/3715652/aaeef33e-559f-4024-8920-46954c8ec927" height="16" class="image is-16x16 is-inline-block" />
+### 🚀 Senior Data Scientist and Data Engineer @ Israel-based HR Tech Startup (via [Toptal](https://www.toptal.com/resume/denis-volk/BDnARp/worlds-top-talent)) <img src="https://raw.githubusercontent.com/abrahamcalf/programming-languages-logos/master/src/python/python.svg" height="16" class="image is-16x16 is-inline-block" /> <img src="https://github.com/dsvolk/dsvolk/assets/3715652/2b153094-9ec3-424c-aaf4-70dabaf6a313" height="16" class="image is-16x16 is-inline-block" /> <img src="https://github.com/dsvolk/dsvolk/assets/3715652/aaeef33e-559f-4024-8920-46954c8ec927" height="16" class="image is-16x16 is-inline-block" />
 *2021 - 2022*
 - Architected and directed the creation of a core Similarity engine to score candidates.
 - Used pre-trained NLP deep neural networks to create semantic text embeddings, which significantly increased the Similarity engine output results.
 - Created a Big Data pipeline in Databricks and Spark to enrich the input data and prepare the features for ML.
 - Prepared custom deep learning models to build richer embeddings, including various data sources and metadata.
 
-### 🚀 Senior Data Scientist and Data Engineer @ US-based Ops/Tech Startup <img src="https://raw.githubusercontent.com/abrahamcalf/programming-languages-logos/master/src/python/python.svg" height="16" class="image is-16x16 is-inline-block" /> <img src="https://github.com/dsvolk/dsvolk/assets/3715652/2b153094-9ec3-424c-aaf4-70dabaf6a313" height="16" class="image is-16x16 is-inline-block" />
+### 🚀 Senior Data Scientist and Data Engineer @ US-based Ops/Tech Startup (via [Toptal](https://www.toptal.com/resume/denis-volk/BDnARp/worlds-top-talent)) <img src="https://raw.githubusercontent.com/abrahamcalf/programming-languages-logos/master/src/python/python.svg" height="16" class="image is-16x16 is-inline-block" /> <img src="https://github.com/dsvolk/dsvolk/assets/3715652/2b153094-9ec3-424c-aaf4-70dabaf6a313" height="16" class="image is-16x16 is-inline-block" />
 *2020 - 2021*
 - Built a foundational end-to-end machine learning solution that predicts fair prices of real-estate properties, thus eliminating a need for manual assessment and enabling the company to run its business by providing quick responses to its customers.
 - Designed and implemented an automatically refreshing ETL pipeline that injects, cleans, joins, and enriches new data from AWS S3 storage daily.
