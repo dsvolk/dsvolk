@@ -31,7 +31,7 @@ I am Ph.D. in mathematics, and [I did research in Math, Physics, Neuroscience, a
 - Built a visualization tool for model output to audit its decisions.
 - Set up automatic model deployment to AWS cloud platform as a Lambda serverless function.
 
-### 🚀 Senior Data Scientist and Data Engineer @ Israel-based HR Tech Startup <img src="https://raw.githubusercontent.com/abrahamcalf/programming-languages-logos/master/src/python/python.svg" height="16" class="image is-16x16 is-inline-block" /> <img src="https://github.com/dsvolk/dsvolk/assets/3715652/2b153094-9ec3-424c-aaf4-70dabaf6a313" height="16" class="image is-16x16 is-inline-block" /> <img src="https://github.com/dsvolk/dsvolk/assets/3715652/aaeef33e-559f-4024-8920-46954c8ec927" height="16" class="image is-16x16 is-inline-block" />
+### 🚀 Senior Data Scientist and Data Engineer @ Israel-based HR Tech Startup (via [Toptal](https://www.toptal.com/resume/denis-volk/BDnARp/worlds-top-talent) <img src="https://raw.githubusercontent.com/abrahamcalf/programming-languages-logos/master/src/python/python.svg" height="16" class="image is-16x16 is-inline-block" /> <img src="https://github.com/dsvolk/dsvolk/assets/3715652/2b153094-9ec3-424c-aaf4-70dabaf6a313" height="16" class="image is-16x16 is-inline-block" /> <img src="https://github.com/dsvolk/dsvolk/assets/3715652/aaeef33e-559f-4024-8920-46954c8ec927" height="16" class="image is-16x16 is-inline-block" />
 *2021 - 2022*
 - Architected and directed the creation of a core Similarity engine to score candidates.
 - Used pre-trained NLP deep neural networks to create semantic text embeddings, which significantly increased the Similarity engine output results.
