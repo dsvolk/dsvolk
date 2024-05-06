@@ -1,6 +1,5 @@
 ## Denis Volk, PhD
-- [Full-stack AI engineer and data scientist](https://www.toptal.com/resume/denis-volk/BDnARp/worlds-top-talent) @ [Toptal](https://www.toptal.com/)
-- Associate Professor in Mathematics @ Interdisciplinary Scientific Center J.-V. Poncelet ([CNRS UMI 2615](https://www.i2m.univ-amu.fr/la-recherche/projets/unites-mixtes-internationales-umi/))
+[Full-stack AI engineer and data scientist](https://www.toptal.com/resume/denis-volk/BDnARp/worlds-top-talent) @ [Toptal](https://www.toptal.com/)
 
 ---
 
@@ -68,6 +67,8 @@ I am Ph.D. in mathematics, and [I did research in Math, Physics, Neuroscience, a
 
 
 ## 🔬 Academic experience (selected)
+### Associate Professor in Mathematics @ Interdisciplinary Scientific Center J.-V. Poncelet ([CNRS UMI 2615](https://www.i2m.univ-amu.fr/la-recherche/projets/unites-mixtes-internationales-umi/))
+*2017 - 2020*
 
 ### 🎓 Postdoctoral Researcher @ Centre for Advanced Studies (CAS)
 *2015 - 2017*
