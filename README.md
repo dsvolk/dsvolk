@@ -67,7 +67,7 @@ I am Ph.D. in mathematics, and [I did research in Math, Physics, Neuroscience, a
 
 
 ## 🔬 Academic experience (selected)
-### Associate Professor in Mathematics @ Interdisciplinary Scientific Center J.-V. Poncelet ([CNRS UMI 2615](https://www.i2m.univ-amu.fr/la-recherche/projets/unites-mixtes-internationales-umi/))
+### 🎓 Associate Professor in Mathematics @ Interdisciplinary Scientific Center J.-V. Poncelet ([CNRS UMI 2615](https://www.i2m.univ-amu.fr/la-recherche/projets/unites-mixtes-internationales-umi/))
 *2017 - 2020*
 
 ### 🎓 Postdoctoral Researcher @ Centre for Advanced Studies (CAS)
