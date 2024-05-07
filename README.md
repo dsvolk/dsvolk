@@ -97,6 +97,7 @@ I am Ph.D. in mathematics, and [I did research in Math, Physics, Neuroscience, a
 ## 📄 My papers
 
 ### 🧠 Neuroscience
+- An accidental image feature that appears but not disappears *(with T. Sawada)* // [Journal of Mathematical Psychology, 119, 2024](https://www.sciencedirect.com/science/article/abs/pii/S0022249624000117)
 - Generalized Cross-Frequency Decomposition: A Method for the Extraction of Neuronal Components Coupled at Different Frequencies *(with I. Dubinin, A. Myasnikova, B. Gutkin, V. Nikulin)* //  [Frontiers in Neuroinformatics, 2018](https://www.frontiersin.org/articles/10.3389/fninf.2018.00072/full)
 
 ### 🪐 Mathematics and Physics
