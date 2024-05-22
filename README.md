@@ -1,9 +1,9 @@
 ## Denis Volk, PhD
-[Full-stack AI engineer and data scientist](https://www.toptal.com/resume/denis-volk/BDnARp/worlds-top-talent) @ [Toptal](https://www.toptal.com/)
+[Full Stack Data Science Engineer](https://www.toptal.com/resume/denis-volk/BDnARp/worlds-top-talent) @ [Toptal](https://www.toptal.com/)
 
 ---
 
-I am a top-notch full-stack AI engineer and data scientist, highly skilled in modern generative AI (LLMs, chatbots, etc.), machine learning, MLOps, data analysis, mathematical modeling, data pipelines, big data, and cloud infrastructure. My data science and machine learning expertise includes LLMs and AI chatbots, forecasting, geospatial data analysis, probabilistic modeling, image recognition, time series analysis, data engineering, and team leading.
+I am a top-notch full-stack data scientist and ML engineer, highly skilled in modern generative AI, highly skilled in modern generative AI, machine learning, MLOps, data analysis, mathematical modeling, data pipelines, big data, and cloud infrastructure. Expertise includes LLMs and AI chatbots, time series analysis and forecasting, geospatial data analysis, natural language processing, probabilistic modeling, data engineering, and team leading.
 
 I am Ph.D. in mathematics, and [I did research in Math, Physics, Neuroscience, and Medicine](#-my-papers). 
 
