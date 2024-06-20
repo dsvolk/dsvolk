@@ -1,5 +1,5 @@
 ## Denis Volk, PhD
-[Full Stack Data Science Engineer](https://www.toptal.com/resume/denis-volk/BDnARp/worlds-top-talent) @ [Toptal](https://www.toptal.com/), PhD in Mathematics
+[Full Stack Data Science Engineer](https://www.toptal.com/resume/denis-volk/BDnARp/worlds-top-talent) @ [Toptal](https://www.toptal.com/) | PhD in Mathematics
 
 ---
 
