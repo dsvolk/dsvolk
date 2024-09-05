@@ -69,27 +69,27 @@ I have Ph.D. in mathematics, and [I did research in Math, Physics, Neuroscience,
 
 
 ## 🔬 Academic experience (selected)
-### 🎓 Associate Professor in Mathematics @ Interdisciplinary Scientific Center J.-V. Poncelet ([CNRS UMI 2615](https://www.i2m.univ-amu.fr/la-recherche/projets/unites-mixtes-internationales-umi/))
+### 🎓 Associate Professor (Mathematics) @ Interdisciplinary Scientific Center J.-V. Poncelet ([CNRS UMI 2615](https://www.i2m.univ-amu.fr/la-recherche/projets/unites-mixtes-internationales-umi/))
 *2017 - 2020*
 
-### 🎓 Postdoctoral Researcher @ Centre for Advanced Studies (CAS)
+### 🎓 Postdoctoral Researcher (Neuroscience) @ Centre for Advanced Studies (CAS)
 *2015 - 2017*
 - Invented a novel mathematical method for cross-frequency synchronization analysis in the human brain.
 - Implemented the method as a MATLAB toolbox and ran tests confirming that the results agreed with previously known scientific data.
 - Prepared and published the method and findings in a top-level journal.
 
-### 🎓 ERC Advanced Grant Postdoctoral Researcher @ University of Rome (Tor Vergata)
+### 🎓 ERC Advanced Grant Postdoctoral Researcher (Mathematics) @ University of Rome (Tor Vergata)
 *2013 - 2015*
 - Discovered a new geometric phenomenon accountable for the rigidity of certain mathematical models related to heat conduction in crystals.
 - Discovered a new stability property of attractors of multidimensional piecewise isometry maps related to Markov field models.
 
-### 🎓 Göran Gustafsson Postdoctoral Researcher @ KTH Royal Institute of Technology
+### 🎓 Göran Gustafsson Postdoctoral Researcher (Mathematics) @ KTH Royal Institute of Technology
 *2012 - 2013*
 - Established that the rotation numbers of circle maps' semigroups define their generators.
 - Discovered a fractal structure of attractors of piecewise isometry maps related to Markov field models.
 - Lectured a PhD-level course on the structural stability of dynamical systems.
 
-### 🎓 Postdoctoral Researcher @ SISSA
+### 🎓 Postdoctoral Researcher (Mathematics) @ SISSA
 *2010 - 2012*
 - Discovered a new class of dynamical systems that have persistent massive attractors.
 - Established a deep relationship between skew product dynamical systems over Markov chains and nonlinear random walks.
