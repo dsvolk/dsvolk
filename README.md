@@ -7,7 +7,7 @@
 
 I am a top-notch full-stack data scientist and ML engineer, highly skilled in modern generative AI, machine learning, MLOps, data analysis, mathematical modeling, data pipelines, big data, and cloud infrastructure. My expertise includes LLMs and AI chatbots, time series analysis and forecasting, geospatial data analysis, natural language processing, probabilistic modeling, data engineering, and team leading.
 
-I have Ph.D. in mathematics, and [I did research in Math, Physics, Neuroscience, and Medicine](#-my-papers). 
+I have Ph.D. in mathematics, and [I did research in Math, Computer Vision, Physics, Neuroscience, and Medicine](#-my-papers), both in academic and in industrial sectors.
 
 ---
 
@@ -65,9 +65,9 @@ I have Ph.D. in mathematics, and [I did research in Math, Physics, Neuroscience,
 
 ### 🚀 Researcher and Software Engineer @ Artec Group <img src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.svg" height="16" class="image is-16x16 is-inline-block" />
 *2004 - 2007*
-- Designed and implemented biometric machine learning face recognition algorithms.
-- Created and implemented statistical test procedures for new recognition algorithms.
-- Developed calibration procedures from 3D laser and flash scanners.
+- Created and implemented 3D surface reconstruction algorithms for Computer Vision.
+- Developed a biometric machine learning face recognition system.
+- Worked on calibration procedures from 3D laser and flash scanners.
 
 
 ## 🔬 Academic experience (selected)
