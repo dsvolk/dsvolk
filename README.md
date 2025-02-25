@@ -1,22 +1,27 @@
 ## Denis Volk, PhD
-[Full Stack Data Science Engineer](https://www.toptal.com/resume/denis-volk/BDnARp/worlds-top-talent) @ [Toptal](https://www.toptal.com/) | PhD in Mathematics
+AI Safety Research Lead @ [Palisade Research](https://palisaderesearch.org/) | PhD in Mathematics
 
 🇨🇭 Swiss B permit (eligible for work)
 
----
-
-I am a top-notch full-stack data scientist and ML engineer, highly skilled in modern generative AI, machine learning, MLOps, data analysis, mathematical modeling, data pipelines, big data, and cloud infrastructure. My expertise includes LLMs and AI chatbots, time series analysis and forecasting, geospatial data analysis, natural language processing, probabilistic modeling, data engineering, and team leading.
-
-I have Ph.D. in mathematics, and [I did research in Math, Computer Vision, Physics, Neuroscience, and Medicine](#-my-papers), both in academic and in industrial sectors.
+I have Ph.D. in mathematics, and before Palisade, [I did research in Math, Computer Vision, Physics, Neuroscience, and Medicine](#-my-papers), both in academic and in industrial sectors.
 
 ---
 
 ## 👨‍💻 Industry experience (selected)
 
+### 🚀 AI Safety Research Lead @ [Palisade Research](https://palisaderesearch.org/) <img src="https://raw.githubusercontent.com/abrahamcalf/programming-languages-logos/master/src/python/python.svg" height="16" class="image is-16x16 is-inline-block" /> <img src="https://github.com/dsvolk/dsvolk/assets/3715652/8bb13198-81d1-4379-86d8-fc8219e14a00" height="16" class="image is-16x16 is-inline-block" />
+
+*2024 - present*
+- Established technical lead for research project that garnered attention from industry leaders including Elon Musk and Yoshua Bengio, resulting in TIME magazine coverage
+- Led QLoRA fine-tuning of Llama-3.3-70B and Llama-3.1-405B models, implementing distributed evaluation infrastructure with vLLM and nginx load balancing across multiple nodes
+- Supervised 5 team members
+- Conducted technical interviews for 6 candidates
+- Co-authored 2 papers submitted to ICML (see [my papers](#-my-papers))
+
 ### 🚀 Founder, CTO @ [OkGPT](https://t.me/ok_gpt_bot) <img src="https://raw.githubusercontent.com/abrahamcalf/programming-languages-logos/master/src/python/python.svg" height="16" class="image is-16x16 is-inline-block" /> <img src="https://github.com/dsvolk/dsvolk/assets/3715652/f9982f62-addc-4de4-8953-167a853c92c3" height="16" class="image is-16x16 is-inline-block" /> <img src="https://github.com/dsvolk/dsvolk/assets/3715652/8bb13198-81d1-4379-86d8-fc8219e14a00" height="16" class="image is-16x16 is-inline-block" /> <img src="https://github.com/dsvolk/dsvolk/assets/3715652/263f9e19-8f1c-42d9-8c31-446a52a8b122" height="16" class="image is-16x16 is-inline-block" /> 
 
-*2023 - PRESENT*
-- Created [OkGPT](https://t.me/ok_gpt_bot), an AI personal assistant messenger bot. It allows users to interact with the most advanced AI through voice and text while offering additional productivity features and integrations.
+*2023 - 2024*
+- Created [OkGPT](https://t.me/ok_gpt_bot), an AI personal assistant platform. It allows users to interact with the most advanced AI through voice and text while offering additional productivity features and integrations, a year before ChatGPT introduced similar features.
 - Optimized the code to parallelize user queries' processing to increase the bot performance by magnitude.
 - Integrated multiple APIs, including Telegram, OpenAI, Cohere, Anthropic, Google, Redis, Amplitude, Datadog, and more.
 - Supervised three team members and a few external collaborators.
@@ -97,6 +102,11 @@ I have Ph.D. in mathematics, and [I did research in Math, Computer Vision, Physi
 - Established a deep relationship between skew product dynamical systems over Markov chains and nonlinear random walks.
 
 ## 📄 My papers
+
+### 🤖 AI Safety
+
+- Demonstrating specification gaming in reasoning models *(with A. Bondarenko, D. Volkov, J. Ladish)* // [arXiv:2502.13295](https://arxiv.org/abs/2502.13295)
+- Hacking CTFs with Plain Agents *(with R. Turtayev, A. Petrov, D. Volkov)* // [arXiv:2412.02776](https://arxiv.org/abs/2412.02776)
 
 ### 🧠 Neuroscience
 - An accidental image feature that appears but not disappears *(with T. Sawada)* // [Journal of Mathematical Psychology, 119, 2024](https://www.sciencedirect.com/science/article/abs/pii/S0022249624000117)
