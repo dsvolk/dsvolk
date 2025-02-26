@@ -1,7 +1,5 @@
 ## Denis Volk, PhD
-AI Safety Research Lead @ [Palisade Research](https://palisaderesearch.org/)
-
-PhD in Mathematics
+AI Safety Research Lead @ [Palisade Research](https://palisaderesearch.org/) | PhD in Mathematics
 
 Before Palisade, [I did research in Math, Computer Vision, Physics, Neuroscience, and Medicine](#-my-papers), both in academia and in industry.
 
