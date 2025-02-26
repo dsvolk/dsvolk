@@ -12,11 +12,11 @@ Before Palisade, [I did research in Math, Computer Vision, Physics, Neuroscience
 ### 🚀 AI Safety Research Lead @ [Palisade Research](https://palisaderesearch.org/) <img src="https://raw.githubusercontent.com/abrahamcalf/programming-languages-logos/master/src/python/python.svg" height="16" class="image is-16x16 is-inline-block" /> <img src="https://github.com/dsvolk/dsvolk/assets/3715652/8bb13198-81d1-4379-86d8-fc8219e14a00" height="16" class="image is-16x16 is-inline-block" />
 
 *2024 - present*
-- Established technical lead for research project that garnered attention from industry leaders including Elon Musk and Yoshua Bengio, resulting in TIME magazine coverage
-- Led QLoRA fine-tuning of Llama-3.3-70B and Llama-3.1-405B models, implementing distributed evaluation infrastructure with vLLM and nginx load balancing across multiple nodes
-- Supervised 5 team members
-- Conducted technical interviews for 6 candidates
-- Co-authored 2 papers submitted to ICML (see [my papers](#-my-papers))
+- Led research project that garnered attention from opinion leaders including Elon Musk and Yoshua Bengio, resulting in [TIME magazine coverage](https://time.com/7259395/ai-chess-cheating-palisade-research/)
+- Led QLoRA fine-tuning for Llama-3.1-405B models and building multi-node evaluation infrastructure
+- Supervised 5+ team members
+- Conducted technical interviews
+- Co-authored 2 ICML paper submissions (see [my papers](#-my-papers))
 
 ### 🚀 Founder, CTO @ [OkGPT](https://t.me/ok_gpt_bot) <img src="https://raw.githubusercontent.com/abrahamcalf/programming-languages-logos/master/src/python/python.svg" height="16" class="image is-16x16 is-inline-block" /> <img src="https://github.com/dsvolk/dsvolk/assets/3715652/f9982f62-addc-4de4-8953-167a853c92c3" height="16" class="image is-16x16 is-inline-block" /> <img src="https://github.com/dsvolk/dsvolk/assets/3715652/8bb13198-81d1-4379-86d8-fc8219e14a00" height="16" class="image is-16x16 is-inline-block" /> <img src="https://github.com/dsvolk/dsvolk/assets/3715652/263f9e19-8f1c-42d9-8c31-446a52a8b122" height="16" class="image is-16x16 is-inline-block" /> 
 
