@@ -14,9 +14,9 @@ Before Palisade, [I did research in Math, Computer Vision, Physics, Neuroscience
 *2024 - present*
 - Led research project that garnered attention from opinion leaders including Elon Musk and Yoshua Bengio, resulting in [TIME magazine coverage](https://time.com/7259395/ai-chess-cheating-palisade-research/)
 - ["Hacking CTFs with Plain Agents" (arXiv:2412.02776)](https://arxiv.org/abs/2412.02776): project lead, partial writing
-– ["Demonstrating specification gaming in reasoning models" (arXiv:2502.13295)](https://arxiv.org/abs/2502.13295): project lead, partial writing
-– ["BadGPT-4o: stripping safety finetuning from GPT models" (arXiv:2412.05346)](https://arxiv.org/abs/2412.05346): project lead
-– ["Toward Comprehensive Benchmarking of the Biological Knowledge of Frontier Large Language Models" (RAND)](https://www.rand.org/pubs/working_papers/WRA3797-1.html): fine-tuned Llama-405B, set up distributed inference infra, evals and analysis
+- ["Demonstrating specification gaming in reasoning models" (arXiv:2502.13295)](https://arxiv.org/abs/2502.13295): project lead, partial writing
+- ["BadGPT-4o: stripping safety finetuning from GPT models" (arXiv:2412.05346)](https://arxiv.org/abs/2412.05346): project lead
+- ["Toward Comprehensive Benchmarking of the Biological Knowledge of Frontier Large Language Models" (RAND)](https://www.rand.org/pubs/working_papers/WRA3797-1.html): fine-tuned Llama-405B, set up distributed inference infra, evals and analysis
 - [Misalignment Bounty](https://bounty.palisaderesearch.org/): project lead
 - Drove 2x team growth within 4 months, managing the full hiring and trial period process (40+ tech interviews)
 - Supervised 5+ team members
