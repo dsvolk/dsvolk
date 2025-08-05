@@ -1,7 +1,7 @@
 ## Denis Volk, PhD
-AI Safety Research Lead @ [Palisade Research](https://palisaderesearch.org/) | PhD in Mathematics | h-index 9
+AI Safety Researcher - Independent | PhD in Mathematics | h-index 9
 
-Before Palisade, [I did research in Math, Computer Vision, Physics, Neuroscience, and Medicine](#-my-papers), both in academia and in industry.
+Prior to AI safety research, [I did research in Math, Computer Vision, Physics, Neuroscience, and Medicine](#-my-papers), both in academia and in industry.
 
 🇨🇭 Swiss B permit (eligible for work)
 
@@ -11,16 +11,16 @@ Before Palisade, [I did research in Math, Computer Vision, Physics, Neuroscience
 
 ### 🚀 AI Safety Research Lead @ [Palisade Research](https://palisaderesearch.org/) <img src="https://raw.githubusercontent.com/abrahamcalf/programming-languages-logos/master/src/python/python.svg" height="16" class="image is-16x16 is-inline-block" /> <img src="https://github.com/dsvolk/dsvolk/assets/3715652/8bb13198-81d1-4379-86d8-fc8219e14a00" height="16" class="image is-16x16 is-inline-block" />
 
-*2024 - present*
+*2024 - 2025*
 - Led research project that garnered attention from opinion leaders including Elon Musk and Yoshua Bengio, resulting in [TIME magazine coverage](https://time.com/7259395/ai-chess-cheating-palisade-research/)
 - ["Hacking CTFs with Plain Agents" (arXiv:2412.02776)](https://arxiv.org/abs/2412.02776): project lead, partial writing
 - ["Demonstrating specification gaming in reasoning models" (arXiv:2502.13295)](https://arxiv.org/abs/2502.13295): project lead, partial writing
 - ["BadGPT-4o: stripping safety finetuning from GPT models" (arXiv:2412.05346)](https://arxiv.org/abs/2412.05346): project lead
 - ["Toward Comprehensive Benchmarking of the Biological Knowledge of Frontier Large Language Models" (RAND)](https://www.rand.org/pubs/working_papers/WRA3797-1.html): Llama-405B fine-tuning, distributed inference infra, evals and analysis
 - [Misalignment Bounty](https://bounty.palisaderesearch.org/): project lead
+- [HAAISS 2025 summer school](https://humanaligned.ai/2025/): invited speaker, workshop organizer
 - Drove 2x team growth within 4 months, managing the full hiring and trial period process (40+ tech interviews)
 - Supervised 5+ team members
-
 
 ### 🚀 Founder, CTO @ [OkGPT](https://t.me/ok_gpt_bot) <img src="https://raw.githubusercontent.com/abrahamcalf/programming-languages-logos/master/src/python/python.svg" height="16" class="image is-16x16 is-inline-block" /> <img src="https://github.com/dsvolk/dsvolk/assets/3715652/f9982f62-addc-4de4-8953-167a853c92c3" height="16" class="image is-16x16 is-inline-block" /> <img src="https://github.com/dsvolk/dsvolk/assets/3715652/8bb13198-81d1-4379-86d8-fc8219e14a00" height="16" class="image is-16x16 is-inline-block" /> <img src="https://github.com/dsvolk/dsvolk/assets/3715652/263f9e19-8f1c-42d9-8c31-446a52a8b122" height="16" class="image is-16x16 is-inline-block" /> 
 
