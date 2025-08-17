@@ -12,6 +12,7 @@ Prior to AI safety research, [I did research in Math, Computer Vision, Physics, 
 ### 🚀 AI Safety Research Lead @ [Palisade Research](https://palisaderesearch.org/) <img src="https://raw.githubusercontent.com/abrahamcalf/programming-languages-logos/master/src/python/python.svg" height="16" class="image is-16x16 is-inline-block" /> <img src="https://github.com/dsvolk/dsvolk/assets/3715652/8bb13198-81d1-4379-86d8-fc8219e14a00" height="16" class="image is-16x16 is-inline-block" />
 
 *2024 - 2025*
+
 Palisade Research is a non-profit dedicated to increasing policymakers' awareness of AI's offensive capabilities and risks. We conduct experiments to uncover novel AI abilities, evaluate associated risks, perform red teaming, and share our findings with security experts and AI providers.  
 
 My contributions include:
