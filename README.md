@@ -11,6 +11,8 @@ Prior to AI safety research, [I did research in Math, Computer Vision, Physics, 
 
 ### 🚀 AI Safety Research Lead @ [Palisade Research](https://palisaderesearch.org/) <img src="https://raw.githubusercontent.com/abrahamcalf/programming-languages-logos/master/src/python/python.svg" height="16" class="image is-16x16 is-inline-block" /> <img src="https://github.com/dsvolk/dsvolk/assets/3715652/8bb13198-81d1-4379-86d8-fc8219e14a00" height="16" class="image is-16x16 is-inline-block" />
 
+Palisade Research is a non-profit dedicated to increasing policymakers' awareness of AI's offensive capabilities and risks. We conduct experiments to uncover novel AI abilities, evaluate associated risks, perform red teaming, and share our findings with security experts and AI providers.  
+
 *2024 - 2025*
 - Led research project that garnered attention from opinion leaders including Elon Musk and Yoshua Bengio, resulting in [TIME magazine coverage](https://time.com/7259395/ai-chess-cheating-palisade-research/)
 - ["Hacking CTFs with Plain Agents" (arXiv:2412.02776)](https://arxiv.org/abs/2412.02776): project lead, partial writing
