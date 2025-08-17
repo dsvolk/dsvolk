@@ -13,10 +13,9 @@ Prior to AI safety research, [I did research in Math, Computer Vision, Physics, 
 
 Palisade Research is a non-profit dedicated to increasing policymakers' awareness of AI's offensive capabilities and risks. We conduct experiments to uncover novel AI abilities, evaluate associated risks, perform red teaming, and share our findings with security experts and AI providers.  
 
-*2024 - 2025*
-- Led research project that garnered attention from opinion leaders including Elon Musk and Yoshua Bengio, resulting in [TIME magazine coverage](https://time.com/7259395/ai-chess-cheating-palisade-research/)
+My contributions include:
+- ["Demonstrating specification gaming in reasoning models" (arXiv:2502.13295)](https://arxiv.org/abs/2502.13295) with findings that garnered attention from industry leaders like Elon Musk and Yoshua Bengio and were featured in [TIME magazine](https://time.com/7259395/ai-chess-cheating-palisade-research/): project lead, partial writing
 - ["Hacking CTFs with Plain Agents" (arXiv:2412.02776)](https://arxiv.org/abs/2412.02776): project lead, partial writing
-- ["Demonstrating specification gaming in reasoning models" (arXiv:2502.13295)](https://arxiv.org/abs/2502.13295): project lead, partial writing
 - ["BadGPT-4o: stripping safety finetuning from GPT models" (arXiv:2412.05346)](https://arxiv.org/abs/2412.05346): project lead
 - ["Toward Comprehensive Benchmarking of the Biological Knowledge of Frontier Large Language Models" (RAND)](https://www.rand.org/pubs/working_papers/WRA3797-1.html): Llama-405B fine-tuning, distributed inference infra, evals and analysis
 - [Misalignment Bounty](https://bounty.palisaderesearch.org/): project lead
