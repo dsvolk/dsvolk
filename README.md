@@ -1,7 +1,7 @@
 ## Denis Volk, PhD
 AI Safety Researcher - Independent | PhD in Mathematics | h-index 9
 
-Technical professional with PhD in Mathematics, 15 years in academic research and 11 years in industry, spanning software engineering, data science, data engineering, machine learning, and AI.
+Technical professional with PhD in Mathematics, [15 years in academic research](#_academic) and 11 years in industry, spanning software engineering, data science, data engineering, machine learning, and AI.
 
 🇨🇭 Swiss B permit (eligible for work)
 
