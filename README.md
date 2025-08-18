@@ -3,7 +3,7 @@ AI Safety Researcher - Independent | PhD in Mathematics | h-index 9
 
 Technical professional with a PhD in Mathematics, [15 years in academic research](#-academic-experience-selected) and [11 years in industry](#-industry-experience-selected), spanning software engineering, data science, data engineering, machine learning, and AI.
 
-🇨🇭 Swiss B permit (unrestricted eligibility for work)
+🇨🇭 Swiss B permit (authorized to work, no sponsorship required)
 
 ---
 
