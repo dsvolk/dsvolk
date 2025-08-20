@@ -5,6 +5,8 @@ Technical professional with a PhD in Mathematics, [15 years in academic research
 
 🇨🇭 Swiss B permit (authorized to work, no sponsorship required)
 
+[🔗 LinkedIn](https://www.linkedin.com/in/denis-volk/) | [🎓 Google Scholar](https://scholar.google.com/citations?user=2mZBoLQAAAAJ)
+
 ---
 
 ## 👨‍💻 Industry experience (selected)
