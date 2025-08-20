@@ -14,11 +14,11 @@ Technical professional with a PhD in Mathematics, [15 years in academic research
 *2024 - 2025*
 
 Palisade Research is a non-profit dedicated to increasing policymakers' awareness of AI's offensive capabilities and risks, conducting experiments to uncover novel AI abilities, evaluating associated risks, performing red teaming, and sharing the findings with security experts and AI providers. My contributions include:
-- ["Demonstrating specification gaming in reasoning models" (arXiv:2502.13295)](https://arxiv.org/abs/2502.13295) with findings that garnered attention from industry leaders like Elon Musk and Yoshua Bengio and were featured in [TIME magazine](https://time.com/7259395/ai-chess-cheating-palisade-research/): project lead
-- ["Hacking CTFs with Plain Agents" (arXiv:2412.02776)](https://arxiv.org/abs/2412.02776): project lead, manuscript co-author
-- ["BadGPT-4o: stripping safety finetuning from GPT models" (arXiv:2412.05346)](https://arxiv.org/abs/2412.05346): project lead, manuscript reviewer
+- ["Demonstrating specification gaming in reasoning models" (arXiv:2502.13295)](https://arxiv.org/abs/2502.13295) with findings that garnered attention from industry leaders like Elon Musk and Yoshua Bengio and were featured in [TIME magazine](https://time.com/7259395/ai-chess-cheating-palisade-research/): technical project lead
+- ["Hacking CTFs with Plain Agents" (arXiv:2412.02776)](https://arxiv.org/abs/2412.02776): technical project lead, manuscript co-author
+- ["BadGPT-4o: stripping safety finetuning from GPT models" (arXiv:2412.05346)](https://arxiv.org/abs/2412.05346): technical project lead, manuscript reviewer
 - ["Toward Comprehensive Benchmarking of the Biological Knowledge of Frontier Large Language Models" (RAND)](https://www.rand.org/pubs/working_papers/WRA3797-1.html): Llama-405B fine-tuning, distributed inference infra, evals and analysis
-- [Misalignment Bounty](https://bounty.palisaderesearch.org/): project lead
+- [Misalignment Bounty](https://bounty.palisaderesearch.org/): technical project lead
 - [HAAISS 2025 summer school](https://humanaligned.ai/2025/): invited speaker, workshop organizer
 - Technical staff recruitment: conducted 40+ technical interviews and trial projects, grew team from 4 to 10+
 - Supervised 5 team members
