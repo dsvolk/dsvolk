@@ -1,4 +1,4 @@
-## Applied Scientist | PhD in Mathematics
+## Applied Scientist | PhD in Math
 
 Technical professional with a PhD in Mathematics, [7 years in academic research](#-academic-experience-selected) and [11 years in industry](#-industry-experience-selected), spanning software engineering, data science, data engineering, machine learning, and AI.
 
