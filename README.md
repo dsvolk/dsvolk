@@ -10,7 +10,7 @@ Technical professional with a PhD in Mathematics, [7 years in academic research]
 
 ## 👨‍💻 Industry experience (selected)
 
-### Research Fellow @ [SPAR](https://sparai.org/) <img src="https://raw.githubusercontent.com/abrahamcalf/programming-languages-logos/master/src/python/python.svg" height="16" class="image is-16x16 is-inline-block" /> <img src="https://github.com/dsvolk/dsvolk/assets/3715652/8bb13198-81d1-4379-86d8-fc8219e14a00" height="16" class="image is-16x16 is-inline-block" />
+### 🚀 Research Fellow @ [SPAR](https://sparai.org/) <img src="https://raw.githubusercontent.com/abrahamcalf/programming-languages-logos/master/src/python/python.svg" height="16" class="image is-16x16 is-inline-block" /> <img src="https://github.com/dsvolk/dsvolk/assets/3715652/8bb13198-81d1-4379-86d8-fc8219e14a00" height="16" class="image is-16x16 is-inline-block" />
 
 *2025 - current*
 
