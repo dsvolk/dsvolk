@@ -10,3 +10,6 @@
 - Created a machine learning model to automatically detect malicious smart contracts before they can cause harm.
 - Built a visualization tool for model output to audit its decisions.
 - Set up automatic model deployment to AWS cloud platform as a Lambda serverless function.
+
+### 🎓 Associate Professor (Mathematics) @ Interdisciplinary Scientific Center J.-V. Poncelet ([CNRS UMI 2615](https://www.i2m.univ-amu.fr/la-recherche/projets/unites-mixtes-internationales-umi/))
+*2017 - 2020*
