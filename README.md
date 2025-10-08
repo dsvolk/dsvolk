@@ -9,7 +9,6 @@ Technical professional with a PhD in Mathematics, [7 years in academic research]
 ---
 
 ## 👨‍💻 Industry experience (selected)
-
 ### 🚀 Research Fellow @ [SPAR](https://sparai.org/) <img src="https://raw.githubusercontent.com/abrahamcalf/programming-languages-logos/master/src/python/python.svg" height="16" class="image is-16x16 is-inline-block" /> <img src="https://github.com/dsvolk/dsvolk/assets/3715652/8bb13198-81d1-4379-86d8-fc8219e14a00" height="16" class="image is-16x16 is-inline-block" />
 
 *2025 - current*
@@ -75,9 +74,6 @@ Palisade Research is a non-profit dedicated to increasing policymakers' awarenes
 
 
 ## 🔬 Academic experience (selected)
-### 🎓 Associate Professor (Mathematics) @ Interdisciplinary Scientific Center J.-V. Poncelet ([CNRS UMI 2615](https://www.i2m.univ-amu.fr/la-recherche/projets/unites-mixtes-internationales-umi/))
-*2017 - 2020*
-
 ### 🎓 Postdoctoral Researcher (Neuroscience) @ Centre for Advanced Studies (CAS)
 *2015 - 2017*
 - Invented a novel mathematical method for cross-frequency synchronization analysis in the human brain.
