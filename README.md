@@ -1,5 +1,4 @@
-## Denis Volk, PhD
-Applied Scientist | PhD in Mathematics, h-index 9
+## Applied Scientist | PhD in Mathematics, [h-index 9](https://scholar.google.com/citations?user=2mZBoLQAAAAJ)
 
 Technical professional with a PhD in Mathematics, [7 years in academic research](#-academic-experience-selected) and [11 years in industry](#-industry-experience-selected), spanning software engineering, data science, data engineering, machine learning, and AI.
 
