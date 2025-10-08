@@ -2,7 +2,7 @@
 
 Technical professional with a PhD in Mathematics, [7 years in academic research](#-academic-experience-selected) and [11 years in industry](#-industry-experience-selected), spanning software engineering, data science, data engineering, machine learning, and AI.
 
-🇨🇭 Swiss B permit (authorized to work, no sponsorship required)
+🇨🇭 Swiss B permit open (authorized to work, no sponsorship required)
 
 [🔗 LinkedIn](https://www.linkedin.com/in/denis-volk/) | [🎓 Google Scholar (h-index 9)](https://scholar.google.com/citations?user=2mZBoLQAAAAJ)
 
