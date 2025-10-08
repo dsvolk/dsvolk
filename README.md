@@ -67,14 +67,14 @@ Palisade Research is a non-profit dedicated to increasing policymakers' awarenes
 - Developed an interpretable machine learning model with Scikit-learn, CatBoost, Lifelines, FBProphet, FAISS, and SHAP that consists of several submodels and satisfies business monotonicity constraints.
 - Supervised other data science team members and coordinated with the engineering team.
 
-### 🚀 Senior Data Scientist @ KPMG <img src="https://raw.githubusercontent.com/abrahamcalf/programming-languages-logos/master/src/python/python.svg" height="16" class="image is-16x16 is-inline-block" /> <img src="https://github.com/dsvolk/dsvolk/assets/3715652/aaeef33e-559f-4024-8920-46954c8ec927" height="16" class="image is-16x16 is-inline-block" />
+### 🚀 Senior Data Scientist @ [KPMG](https://kpmg.com/) <img src="https://raw.githubusercontent.com/abrahamcalf/programming-languages-logos/master/src/python/python.svg" height="16" class="image is-16x16 is-inline-block" /> <img src="https://github.com/dsvolk/dsvolk/assets/3715652/aaeef33e-559f-4024-8920-46954c8ec927" height="16" class="image is-16x16 is-inline-block" />
 *2017 - 2019*
 - Created a machine learning model that predicted revenues for a retail store chain based on store location, local demographic data, GIS features, seasonality, and other factors.
 - Developed and deployed an interpretable machine learning model that scored B2B customers for payment default risks and provided explanations for the scores. The model massively reduced workload for weekly risks assessment.
 - Built a probabilistic Bayesian machine learning model to predict which apartment buildings still under construction would fail to be commissioned in time. The model helped reduce the funds needed to hedge risks by two times.
 - Developed and deployed NLP models to automatically label a vast body of housing contracts by contract type and extract contractor party names, address entities, and other attributes.
 
-### 🚀 Researcher and Software Engineer @ Artec Group <img src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.svg" height="16" class="image is-16x16 is-inline-block" />
+### 🚀 Researcher and Software Engineer @ [Artec 3D](https://www.artec3d.com/) <img src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.svg" height="16" class="image is-16x16 is-inline-block" />
 *2004 - 2007*
 - Created and implemented 3D surface reconstruction algorithms for Computer Vision.
 - Developed a biometric machine learning face recognition system.
