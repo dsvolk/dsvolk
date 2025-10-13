@@ -13,7 +13,7 @@ Technical professional with a PhD in Mathematics, [7 years in academic research]
 
 *2025 - current*
 
-- Collaborated with [FAR.AI](https://www.far.ai/) to develop a toolkit for frontier model red-teaming.
+- Collaborated with [FAR.AI](https://www.far.ai/) to develop a toolkit for frontier LLM red-teaming.
 
 ### 🚀 Research Team Lead @ [Palisade Research](https://palisaderesearch.org/) <img src="https://raw.githubusercontent.com/abrahamcalf/programming-languages-logos/master/src/python/python.svg" height="16" class="image is-16x16 is-inline-block" /> <img src="https://github.com/dsvolk/dsvolk/assets/3715652/8bb13198-81d1-4379-86d8-fc8219e14a00" height="16" class="image is-16x16 is-inline-block" />
 
