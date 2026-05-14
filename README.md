@@ -9,7 +9,7 @@ Technical professional with a PhD in Mathematics, [7 years in academic research]
 ---
 
 ## 👨‍💻 Industry experience (selected)
-### Senior ML Engineer @ [Lakera AI](https://www.lakera.ai/), a CheckPoint Company
+### 🚀 Senior ML Engineer @ [Lakera AI](https://www.lakera.ai/), a [Check Point](https://www.checkpoint.com/solutions/genai-security/) Company
 
 *2026*
 
