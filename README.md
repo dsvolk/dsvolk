@@ -1,5 +1,7 @@
 ## Applied Scientist | PhD in Math
 
+Denis Volk is a Senior ML Engineer at [Lakera](https://www.lakera.ai/), a [Check Point](https://www.checkpoint.com/) company building AI security solutions, where he works on an automated red-teaming platform for LLMs and AI agents. Previously, as AI Safety Research Lead at [Palisade Research](https://palisaderesearch.org/), he led work on specification gaming, cybersecurity agents, and malicious fine-tuning. Through [SPAR](https://sparai.org/), he collaborated with [FAR.AI](https://www.far.ai/) on testing LLM robustness against multi-stage adversarial attack pipelines. He has taught AI safety at [Oxford LLMs](https://llmsforsocialscience.net/) and [HAAISS](https://humanaligned.ai/) schools.
+
 Technical professional with a PhD in Mathematics, [7 years in academic research](#-academic-experience-selected) and [11 years in industry](#-industry-experience-selected), spanning software engineering, data science, data engineering, machine learning, and AI.
 
 🇨🇭 Swiss B permit open (authorized to work, no sponsorship required)
